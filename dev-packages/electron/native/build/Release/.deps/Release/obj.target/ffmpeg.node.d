@@ -1,0 +1,1 @@
+cmd_Release/obj.target/ffmpeg.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=ffmpeg.node -o Release/obj.target/ffmpeg.node -Wl,--start-group Release/obj.target/ffmpeg/src/ffmpeg.o Release/obj.target/ffmpeg/src/linux-ffmpeg.o -Wl,--end-group -ldl

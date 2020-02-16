@@ -1,0 +1,15 @@
+(Fri, 14 Feb 2020 22:56:04 GMT) info: Downloading tmp-2224-0-ffmpeg-v4.2.12-linux-x64.zip
+[>                                            ] 0.0% (0 B/s)
+(Fri, 14 Feb 2020 22:56:05 GMT) info: [1000D[0K[1A[1000D[0K[1A[1000D[0KDownloading tmp-2224-0-ffmpeg-v4.2.12-linux-x64.zip
+[>                                            ] 0.0% of 3.88 MB (0 B/s)
+(Fri, 14 Feb 2020 22:56:05 GMT) info: [1000D[0K[1A[1000D[0K[1A[1000D[0KDownloading tmp-2224-0-ffmpeg-v4.2.12-linux-x64.zip
+[==>                                          ] 6.7% of 3.88 MB (259.61 kB/s)
+(Fri, 14 Feb 2020 22:56:05 GMT) info: [1000D[0K[1A[1000D[0K[1A[1000D[0KDownloading tmp-2224-0-ffmpeg-v4.2.12-linux-x64.zip
+[============================================>] 100.0% of 3.88 MB (3.88 MB/s)
+(Fri, 14 Feb 2020 22:56:05 GMT) info: [1000D[0K[1A[1000D[0K[1A[1000D[0KDownloading tmp-2224-0-ffmpeg-v4.2.12-linux-x64.zip
+[============================================>] 100.0% of 3.88 MB (3.88 MB/s)
+(Fri, 14 Feb 2020 22:56:05 GMT) info: [1000D[0K[1A[1000D[0K[1A[1000D[0KDownloading tmp-2224-0-ffmpeg-v4.2.12-linux-x64.zip
+[============================================>] 100.0% of 3.88 MB (3.88 MB/s)
+(Fri, 14 Feb 2020 22:56:06 GMT) info: Downloaded ffmpeg shared library { version: "4.2.12", dist: "/workspace/theia/node_modules/electron/dist" }.
+(Fri, 14 Feb 2020 22:56:06 GMT) info: Successfully replaced "/workspace/theia/node_modules/electron/dist/libffmpeg.so".
+(Fri, 14 Feb 2020 22:56:06 GMT) info: "/workspace/theia/node_modules/electron/dist/libffmpeg.so" does not contain proprietary codecs (16 found).
